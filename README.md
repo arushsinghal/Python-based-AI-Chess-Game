@@ -1,2 +1,11 @@
-# Python-based-AI-Chess-Game
-A Python AI Chess game using Pygame for GUI and Minimax with Alpha-Beta Pruning for AI. Features include move validation, AI depth control, and optimized performance. The AI efficiently evaluates moves for strategic play. Future upgrades: neural network AI, online multiplayer, and better heuristics. 🚀
+# pygame-chess
+Chess game written in python with the pygame library.
+
+## Game Menu
+![menu](https://user-images.githubusercontent.com/24194821/57589722-cf907c00-74eb-11e9-9318-822abd6c9942.png)
+
+## Gameplay
+![game](https://user-images.githubusercontent.com/24194821/57589721-cf907c00-74eb-11e9-8def-bf4782315ed9.png)
+
+## Winner Menu
+![checkmate](https://user-images.githubusercontent.com/24194821/57589723-cf907c00-74eb-11e9-8b42-aef703c3e1f8.png)
